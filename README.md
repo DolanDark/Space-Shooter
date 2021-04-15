@@ -1,1 +1,1 @@
-Requires pygame
+a simple pygame
