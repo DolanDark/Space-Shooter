@@ -1,1 +1,1 @@
-# Space-Shooter
+Requires pygame
